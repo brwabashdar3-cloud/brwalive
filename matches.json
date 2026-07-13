@@ -1,0 +1,26 @@
+[
+  {
+    "team1": "ڕیاڵ مەدرید",
+    "team2": "بەرشەلۆنە",
+    "time": "22:00",
+    "logo1": "real.png",
+    "logo2": "barca.png",
+    "streamLink": "https://example.com/stream1"
+  },
+  {
+    "team1": "ئارسناڵ",
+    "team2": "چێڵسی",
+    "time": "19:30",
+    "logo1": "arsenal.png",
+    "logo2": "chelsea.png",
+    "streamLink": "https://example.com/stream2"
+  },
+  {
+    "team1": "مانچستەر سیتی",
+    "team2": "لیڤەرپوڵ",
+    "time": "21:00",
+    "logo1": "mancity.png",
+    "logo2": "liverpool.png",
+    "streamLink": "https://example.com/stream3"
+  }
+]
