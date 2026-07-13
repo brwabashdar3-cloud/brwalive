@@ -1,26 +1,32 @@
 [
   {
-    "team1": "ڕیاڵ مەدرید",
-    "team2": "بەرشەلۆنە",
-    "time": "22:00",
-    "logo1": "real.png",
-    "logo2": "barca.png",
-    "streamLink": "https://example.com/stream1"
+    "id": "match-2026-07-14-france-spain",
+    "team1": { "name": "فرنسا", "nameCkb": "فەرەنسا", "logo": "https://flagpedia.net/data/flags/w580/fr.webp" },
+    "team2": { "name": "اسبانيا", "nameCkb": "ئیسپانیا", "logo": "https://flagpedia.net/data/flags/w580/es.webp" },
+    "competition": "كأس العالم 2026 - نصف النهائي",
+    "competitionCkb": "جامی جیهانی ٢٠٢٦ - نیوەکۆتایی",
+    "kickoff": "2026-07-14T22:00:00",
+    "activateMinutesBefore": 40,
+    "durationMinutes": 200
   },
   {
-    "team1": "ئارسناڵ",
-    "team2": "چێڵسی",
-    "time": "19:30",
-    "logo1": "arsenal.png",
-    "logo2": "chelsea.png",
-    "streamLink": "https://example.com/stream2"
+    "id": "match-2026-07-15-argentina-england",
+    "team1": { "name": "الأرجنتين", "nameCkb": "ئەرجەنتین", "logo": "https://flagpedia.net/data/flags/w580/ar.webp" },
+    "team2": { "name": "إنجلترا", "nameCkb": "ئینگلتەرا", "logo": "https://flagpedia.net/data/flags/w580/gb-eng.webp" },
+    "competition": "كأس العالم 2026 - نصف النهائي",
+    "competitionCkb": "جامی جیهانی ٢٠٢٦ - نیوەکۆتایی",
+    "kickoff": "2026-07-15T22:00:00",
+    "activateMinutesBefore": 40,
+    "durationMinutes": 200
   },
   {
-    "team1": "مانچستەر سیتی",
-    "team2": "لیڤەرپوڵ",
-    "time": "21:00",
-    "logo1": "mancity.png",
-    "logo2": "liverpool.png",
-    "streamLink": "https://example.com/stream3"
+    "id": "match-2026-07-16-final",
+    "team1": { "name": "-", "nameCkb": "-", "logo": "https://flagpedia.net/data/flags/w580/pt.webp" },
+    "team2": { "name": "-", "nameCkb": "-", "logo": "https://flagpedia.net/data/flags/w580/hr.webp" },
+    "competition": "كأس العالم 2026 - النهائي",
+    "competitionCkb": "جامی جیهانی ٢٠٢٦ - کۆتایی",
+    "kickoff": "2026-07-16T22:00:00",
+    "activateMinutesBefore": 30,
+    "durationMinutes": 150
   }
 ]
