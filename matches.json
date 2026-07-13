@@ -1,32 +1,17 @@
-[
-  {
-    "id": "match-2026-07-14-france-spain",
-    "team1": { "name": "فرنسا", "nameCkb": "فەرەنسا", "logo": "https://flagpedia.net/data/flags/w580/fr.webp" },
-    "team2": { "name": "اسبانيا", "nameCkb": "ئیسپانیا", "logo": "https://flagpedia.net/data/flags/w580/es.webp" },
-    "competition": "كأس العالم 2026 - نصف النهائي",
-    "competitionCkb": "جامی جیهانی ٢٠٢٦ - نیوەکۆتایی",
-    "kickoff": "2026-07-14T22:00:00",
-    "activateMinutesBefore": 40,
-    "durationMinutes": 200
-  },
-  {
-    "id": "match-2026-07-15-argentina-england",
-    "team1": { "name": "الأرجنتين", "nameCkb": "ئەرجەنتین", "logo": "https://flagpedia.net/data/flags/w580/ar.webp" },
-    "team2": { "name": "إنجلترا", "nameCkb": "ئینگلتەرا", "logo": "https://flagpedia.net/data/flags/w580/gb-eng.webp" },
-    "competition": "كأس العالم 2026 - نصف النهائي",
-    "competitionCkb": "جامی جیهانی ٢٠٢٦ - نیوەکۆتایی",
-    "kickoff": "2026-07-15T22:00:00",
-    "activateMinutesBefore": 40,
-    "durationMinutes": 200
-  },
-  {
-    "id": "match-2026-07-16-final",
-    "team1": { "name": "-", "nameCkb": "-", "logo": "https://flagpedia.net/data/flags/w580/pt.webp" },
-    "team2": { "name": "-", "nameCkb": "-", "logo": "https://flagpedia.net/data/flags/w580/hr.webp" },
-    "competition": "كأس العالم 2026 - النهائي",
-    "competitionCkb": "جامی جیهانی ٢٠٢٦ - کۆتایی",
-    "kickoff": "2026-07-16T22:00:00",
-    "activateMinutesBefore": 30,
-    "durationMinutes": 150
-  }
-]
+{
+  "matches": [
+    {
+      "id": "match-1",
+      "team1": { "name": "فرنسا", "nameCkb": "فەرەنسا", "logo": "https://flagpedia.net/data/flags/w580/fr.webp" },
+      "team2": { "name": "اسبانيا", "nameCkb": "ئیسپانیا", "logo": "https://flagpedia.net/data/flags/w580/es.webp" },
+      "competition": "كأس العالم 2026",
+      "competitionCkb": "جامی جیهانی ٢٠٢٦",
+      "kickoff": "2026-07-14T22:00:00",
+      "activateMinutesBefore": 40,
+      "durationMinutes": 200,
+      "servers": [
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "...", "type": "iframe" }
+      ]
+    }
+  ]
+}
