@@ -76,8 +76,8 @@
         },
         {
           "name": "سێرڤەری ٣",
-          "nameCkb": "سێرڤەری NRT SPORT",
-          "url": "https://streamkrdtv.site/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-eu-central-1.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FWK5NttyI8tMqxUZzAYL7O0uSjaEhbkO0HvhrkRHcAPVCGxbKZZQoNpBRv213qjVGTetwoM-L84jAEB7xj5m50Q%2Ftranscode%2Feu-central-1%2Fperiscope-replay-direct-prod-eu-central-1-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfbm9uY2UiOiJtlb mNvZGVyX3NldF8MTg4MHg:MF8xMCI sIkhlaWdob dCI6MTg4MC IsIldpZHRoIjoxOTIw fQ.OIMMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1h-6l4BZ4%2Fdynamic_playlist.m3u8?type=live",
+          "nameCkb": "سێرڤەری ۳",
+          "url": "https://cdn.bluetier.top/TSN5/index.m3u8?token=VFNONXxub19jaGVja19pcHwxNzg0MTQxNTU3.3905877d4443522a96d2c68ec23b4aac4d716aec87913271ed25f360d138da9c",
           "type": "m3u8"
         },
         {
