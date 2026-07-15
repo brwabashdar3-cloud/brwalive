@@ -83,8 +83,8 @@
         {
           "name": "سێرڤەری ٤",
           "nameCkb": "سێرڤەری ٤",
-          "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8",
-          "type": "m3u8"
+          "url": "https://embed.cx/admin/embed1/",
+          "type": "iframe"
         }
       ]
     }
