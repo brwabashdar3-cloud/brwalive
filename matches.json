@@ -1,7 +1,7 @@
 {
   "matches": [
     {
-      "id": "match-2026-07-17-france-england",
+      "id": "match-2026-07-19-france-england",
       "team1": {
         "name": "فرنسا",
         "nameCkb": "فەرەنسا",
@@ -14,98 +14,98 @@
       },
       "competition": "كأس العالم 2026 - المركز الثالث",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
-      "kickoff": "2026-07-17T00:00:00",
+      "kickoff": "2026-07-19T00:00:00",
       "activateMinutesBefore": 40,
       "durationMinutes": 200,
       "servers": [
         {
           "name": "سێرڤەری ١",
           "nameCkb": "سێرڤەری ١",
-          "url": "https://antenasport.link/beinsport1max.php",
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "name": "سێرڤەری ٢",
+          "nameCkb": "سێرڤەری ٢",
+          "url": "https://antenasport.link/sport1pt.php",
           "type": "iframe"
         },
         {
-          "name": "NRT SPORT سێرڤەری ٢",
-          "nameCkb": "سێرڤەری ٢",
+          "name": "NRT SPORT سێرڤەری ٣",
+          "nameCkb": "NRT SPORT سێرڤەری ٣",
           "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
           "type": "m3u8"
         },
         {
-          "name": "سێرڤەری ٣",
-          "nameCkb": "۳ سێرڤەری ",
-          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
+          "name": "سێرڤەری ٤",
+          "nameCkb": "سێرڤەری ٤",
+          "url": "https://antenasport.link/daznmundial.php",
           "type": "iframe"
         },
         {
-          "name": "سێرڤەری ٤",
-          "nameCkb": "سێرڤەری ٤",
-          "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "4k",
-          "nameCkb": "4k",
+          "name": "سێرڤەری ٥ 4K",
+          "nameCkb": "سێرڤەری ٥ 4K",
           "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ٦",
           "nameCkb": "سێرڤەری ٦",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+          "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8",
           "type": "m3u8"
         },
         {
           "name": "سێرڤەری ٧",
           "nameCkb": "سێرڤەری ٧",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
-          "type": "m3u8"
+          "url": "https://antenasport.link/kazsport.php",
+          "type": "iframe"
         },
         {
           "name": "سێرڤەری ٨",
           "nameCkb": "سێرڤەری ٨",
-          "url": "https://antenasport.link/sport1pt.php",
-          "type": "iframe"
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+          "type": "m3u8"
         },
         {
           "name": "سێرڤەری ٩",
           "nameCkb": "سێرڤەری ٩",
-          "url": "https://antenasport.link/match1.php",
+          "url": "https://antenasport.link/megogosport.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١٠",
           "nameCkb": "سێرڤەری ١٠",
-          "url": "https://antenasport.link/kazsport.php",
+          "url": "https://antenasport.link/beinsport1max.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١١",
           "nameCkb": "سێرڤەری ١١",
-          "url": "https://antenasport.link/beinsport1max.php",
+          "url": "https://antenasport.link/match1.php",
           "type": "iframe"
         },
         {
-          "name": "سێرڤەری ١٢",
-          "nameCkb": "سێرڤەری ١٢",
-          "url": "https://antenasport.link/daznmundial.php",
+          "name": "سێرڤەری ١٢ 4K",
+          "nameCkb": "سێرڤەری ١٢ 4K",
+          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١٣",
           "nameCkb": "سێرڤەری ١٣",
-          "url": "https://antenasport.link/megogosport.php",
+          "url": "https://antenasport.link/beinsport1max.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١٤",
           "nameCkb": "سێرڤەری ١٤",
-          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8",
+          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
           "type": "m3u8"
         }
       ]
     },
     {
-      "id": "match-2026-07-17-argentina-spain",
+      "id": "match-2026-07-19-argentina-spain",
       "team1": {
         "name": "الأرجنتين",
         "nameCkb": "ئەرجەنتین",
@@ -118,7 +118,7 @@
       },
       "competition": "كأس العالم 2026 - النهائي",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - کۆتایی",
-      "kickoff": "2026-07-17T00:00:00",
+      "kickoff": "2026-07-19T22:00:00",
       "activateMinutesBefore": 40,
       "durationMinutes": 200,
       "servers": [
@@ -131,79 +131,79 @@
         {
           "name": "سێرڤەری ٢",
           "nameCkb": "سێرڤەری ٢",
-          "url": "https://syria-live.info/albaplayer/minmx/?serv=0",
+          "url": "https://antenasport.link/daznmundial.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ٣",
-          "nameCkb": "سێرڤەری ۳",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
+          "nameCkb": "سێرڤەری ٣",
+          "url": "https://syria-live.info/albaplayer/minmx/?serv=0",
+          "type": "iframe"
         },
         {
-          "name": "سێرڤەری ٤",
-          "nameCkb": "سێرڤەری ٤",
-          "url": "https://proxy.eylog.co.uk/http://142.132.194.230/live/mytvo1/index.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٥ 4K",
-          "nameCkb": "سێرڤەری ٥ 4K",
+          "name": "سێرڤەری ٤ 4K",
+          "nameCkb": "سێرڤەری ٤ 4K",
           "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "name": "سێرڤەری ٥",
+          "nameCkb": "سێرڤەری ٥",
+          "url": "https://proxy.eylog.co.uk/http://142.132.194.230/live/mytvo1/index.m3u8",
           "type": "m3u8"
         },
         {
           "name": "سێرڤەری ٦",
           "nameCkb": "سێرڤەری ٦",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
+          "url": "https://antenasport.link/beinsport1max.php",
+          "type": "iframe"
         },
         {
           "name": "سێرڤەری ٧",
           "nameCkb": "سێرڤەری ٧",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
           "type": "m3u8"
         },
         {
           "name": "سێرڤەری ٨",
           "nameCkb": "سێرڤەری ٨",
-          "url": "https://antenasport.link/sport1pt.php",
+          "url": "https://antenasport.link/megogosport.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ٩",
           "nameCkb": "سێرڤەری ٩",
-          "url": "https://antenasport.link/match1.php",
-          "type": "iframe"
+          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
+          "type": "m3u8"
         },
         {
           "name": "سێرڤەری ١٠",
           "nameCkb": "سێرڤەری ١٠",
-          "url": "https://antenasport.link/kazsport.php",
+          "url": "https://antenasport.link/sport1pt.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١١",
           "nameCkb": "سێرڤەری ١١",
-          "url": "https://antenasport.link/beinsport1max.php",
-          "type": "iframe"
+          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8",
+          "type": "m3u8"
         },
         {
           "name": "سێرڤەری ١٢",
           "nameCkb": "سێرڤەری ١٢",
-          "url": "https://antenasport.link/daznmundial.php",
+          "url": "https://antenasport.link/match1.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١٣",
           "nameCkb": "سێرڤەری ١٣",
-          "url": "https://antenasport.link/megogosport.php",
+          "url": "https://antenasport.link/kazsport.php",
           "type": "iframe"
         },
         {
           "name": "سێرڤەری ١٤",
           "nameCkb": "سێرڤەری ١٤",
-          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
           "type": "m3u8"
         }
       ]
