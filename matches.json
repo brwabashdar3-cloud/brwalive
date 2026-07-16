@@ -21,20 +21,20 @@
         {
           "name": "سێرڤەری ١",
           "nameCkb": "سێرڤەری ١",
-          "url": "https://yallashooot.tv/albaplayer/cluster/?serv=0",
+          "url": "https://antenasport.link/beinsport1max.php",
           "type": "iframe"
         },
         {
           "name": "NRT SPORT سێرڤەری ٢",
           "nameCkb": "سێرڤەری ٢",
-          "url": "https://plu001.myturn1.top:8088/live/mga4k01/playlist.m3u8?id=124089&pk=c08086b25143bb6c13752006548ee296f0d121643e73eb8d942e7bdd0572db53f10f7ac6fa26709d47e1060086b5460553096fa1fa559e247db757cda8faa581",
+          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
           "type": "m3u8"
         },
         {
           "name": "سێرڤەری ٣",
           "nameCkb": "۳ سێرڤەری ",
-          "url": "https://apxvf0ws91.yarncdn.live/live/sd-6MvYMRTGwFvxSVxoMA/playlist.m3u8",
-          "type": "m3u8"
+          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
+          "type": "iframe"
         },
         {
           "name": "سێرڤەری ٤",
@@ -43,10 +43,10 @@
           "type": "m3u8"
         },
         {
-          "name": "سێرڤەری ٥ 4K",
-          "nameCkb": "سێرڤەری ٥ 4K",
+          "name": "4k",
+          "nameCkb": "4k",
           "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-          "type": "m3u8"
+          "type": "iframe"
         },
         {
           "name": "سێرڤەری ٦",
