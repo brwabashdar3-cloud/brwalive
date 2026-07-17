@@ -1,8 +1,7 @@
-
 {
   "matches": [
     {
-      "id": "match-2026-07-17-france-england",
+      "id": "match-2026-07-19-france-england",
       "team1": {
         "name": "فرنسا",
         "nameCkb": "فەرەنسا",
@@ -15,7 +14,7 @@
       },
       "competition": "كأس العالم 2026 - المركز الثالث",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
-      "kickoff": "2026-07-17T00:00:00",
+      "kickoff": "2026-07-18T02:00:00",
       "activateMinutesBefore": 40,
       "durationMinutes": 200,
       "servers": [
@@ -101,7 +100,7 @@
       },
       "competition": "كأس العالم 2026 - النهائي",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - کۆتایی",
-      "kickoff": "2026-07-19T22:00:00",
+      "kickoff": "2026-07-18T02:30:00",
       "activateMinutesBefore": 40,
       "durationMinutes": 200,
       "servers": [
