@@ -1,7 +1,8 @@
+
 {
   "matches": [
     {
-      "id": "match-2026-07-19-france-england",
+      "id": "match-2026-07-18-france-england",
       "team1": {
         "name": "فرنسا",
         "nameCkb": "فەرەنسا",
@@ -14,7 +15,7 @@
       },
       "competition": "كأس العالم 2026 - المركز الثالث",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
-      "kickoff": "2026-07-19T00:00:00",
+      "kickoff": "2026-07-18T00:00:00",
       "activateMinutesBefore": 40,
       "durationMinutes": 200,
       "servers": [
@@ -83,24 +84,6 @@
           "nameCkb": "سێرڤەری ١١",
           "url": "https://antenasport.link/match1.php",
           "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٢ 4K",
-          "nameCkb": "سێرڤەری ١٢ 4K",
-          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٣",
-          "nameCkb": "سێرڤەری ١٣",
-          "url": "https://antenasport.link/beinsport1max.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٤",
-          "nameCkb": "سێرڤەری ١٤",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
-          "type": "m3u8"
         }
       ]
     },
@@ -199,12 +182,6 @@
           "nameCkb": "سێرڤەری ١٣",
           "url": "https://antenasport.link/kazsport.php",
           "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٤",
-          "nameCkb": "سێرڤەری ١٤",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
         }
       ]
     }
