@@ -32,10 +32,10 @@
           "type": "iframe"
         },
         {
-          "name": "NRT SPORT  ",
-          "nameCkb": "NRT SPORT ",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
-          "type": "m3u8"
+          "name": "English 4K",
+          "nameCkb": "ENGLISH 4K ",
+          "url": "https://iframe.st/rampages/france-vs-england/",
+          "type": "iframe"
         },
         {
           "name": "سێرڤەری ٤",
@@ -44,8 +44,8 @@
           "type": "m3u8"
         },
         {
-          "name": "سێرڤەری ٥ 4K",
-          "nameCkb": "سێرڤەری ٥ 4K",
+          "name": "سێرڤەری ٥",
+          "nameCkb": "سێرڤەری ٥",
           "url": "https://iframe.st/rampages/france-vs-england/",
           "type": "iframe"
         },
