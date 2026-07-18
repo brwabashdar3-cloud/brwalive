@@ -1,4 +1,3 @@
-
 {
   "matches": [
     {
@@ -13,96 +12,27 @@
         "nameCkb": "ئینگلتەرا",
         "logo": "https://flagpedia.net/data/flags/w580/gb-eng.webp"
       },
+      "result": "4 - 6",
       "competition": "كأس العالم 2026 - المركز الثالث",
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
       "kickoff": "2026-07-19T00:00:00",
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
-        {
-          "name": "سێرڤەری ١",
-          "nameCkb": "سێرڤەری ١",
-          "url": "https://antenasport.link/beinsport1max.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٢",
-          "nameCkb": "سێرڤەری ٢",
-          "url": "https://syria-live.info/albaplayer/minmx/?serv=0",
-          "type": "iframe"
-        },
-        {
-          "name": "English 4K",
-          "nameCkb": "ENGLISH 4K ",
-          "url": "https://iframe.st/rampages/france-vs-england/",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٤",
-          "nameCkb": "سێرڤەری ٤",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٥",
-          "nameCkb": "سێرڤەری ٥",
-          "url": "https://iframe.st/rampages/france-vs-england/",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٦",
-          "nameCkb": "سێرڤەری ٦",
-          "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٧",
-          "nameCkb": "سێرڤەری ٧",
-          "url": "https://embed.cx/admin/embed1/",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٨",
-          "nameCkb": "سێرڤەری ٨",
-          "url": "https://embed.st/embed/admin/ppv-france-vs-england/6",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٩",
-          "nameCkb": "سێرڤەری ٩",
-          "url": "https://antenasport.link/megogosport.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٠",
-          "nameCkb": "سێرڤەری ١٠",
-          "url": "https://antenasport.link/sport1pt.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١١",
-          "nameCkb": "سێرڤەری ١١",
-          "url": "https://newviva.vivatops.store/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg0NDE1NzI4LCJyYW5kIjoiMDcxZDc4OTJmMWE3MDE0MSJ9.dfab727666fb4c7b3e561f3ecc5b4ae3424501850bba35ad1ee6df4baa23a95e",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ١٢ 4K",
-          "nameCkb": "سێرڤەری ١٢ 4K",
-          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٣",
-          "nameCkb": "سێرڤەری ١٣",
-          "url": "https://antenasport.link/beinsport1max.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٤",
-          "nameCkb": "سێرڤەری ١٤",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
-          "type": "m3u8"
-        }
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
+        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
+        { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
+        { "name": "سێرڤەری ٥", "nameCkb": "سێرڤەری ٥", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
+        { "name": "سێرڤەری ٦", "nameCkb": "سێرڤەری ٦", "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8", "type": "m3u8" },
+        { "name": "سێرڤەری ٧", "nameCkb": "سێرڤەری ٧", "url": "https://embed.cx/admin/embed1/", "type": "iframe" },
+        { "name": "سێرڤەری ٨", "nameCkb": "سێرڤەری ٨", "url": "https://embed.st/embed/admin/ppv-france-vs-england/6", "type": "iframe" },
+        { "name": "سێرڤەری ٩", "nameCkb": "سێرڤەری ٩", "url": "https://antenasport.link/megogosport.php", "type": "iframe" },
+        { "name": "سێرڤەری ١٠", "nameCkb": "سێرڤەری ١٠", "url": "https://antenasport.link/sport1pt.php", "type": "iframe" },
+        { "name": "سێرڤەری ١١", "nameCkb": "سێرڤەری ١١", "url": "https://newviva.vivatops.store/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg0NDE1NzI4LCJyYW5kIjoiMDcxZDc4OTJmMWE3MDE0MSJ9.dfab727666fb4c7b3e561f3ecc5b4ae3424501850bba35ad1ee6df4baa23a95e", "type": "m3u8" },
+        { "name": "سێرڤەری ١٢ 4K", "nameCkb": "سێرڤەری ١٢ 4K", "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8", "type": "iframe" },
+        { "name": "سێرڤەری ١٣", "nameCkb": "سێرڤەری ١٣", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ١٤", "nameCkb": "سێرڤەری ١٤", "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8", "type": "m3u8" }
       ]
     },
     {
@@ -123,90 +53,20 @@
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
-        {
-          "name": "سێرڤەری ١",
-          "nameCkb": "سێرڤەری ١",
-          "url": "https://yallashooot.tv/albaplayer/cluster/?serv=0",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٢",
-          "nameCkb": "سێرڤەری ٢",
-          "url": "https://antenasport.link/daznmundial.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٣",
-          "nameCkb": "سێرڤەری ٣",
-          "url": "https://syria-live.info/albaplayer/minmx/?serv=0",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٤ 4K",
-          "nameCkb": "سێرڤەری ٤ 4K",
-          "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٥",
-          "nameCkb": "سێرڤەری ٥",
-          "url": "https://proxy.eylog.co.uk/http://142.132.194.230/live/mytvo1/index.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٦",
-          "nameCkb": "سێرڤەری ٦",
-          "url": "https://antenasport.link/beinsport1max.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٧",
-          "nameCkb": "سێرڤەری ٧",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ٨",
-          "nameCkb": "سێرڤەری ٨",
-          "url": "https://antenasport.link/megogosport.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ٩",
-          "nameCkb": "سێرڤەری ٩",
-          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ١٠",
-          "nameCkb": "سێرڤەری ١٠",
-          "url": "https://antenasport.link/sport1pt.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١١",
-          "nameCkb": "سێرڤەری ١١",
-          "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_5.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "name": "سێرڤەری ١٢",
-          "nameCkb": "سێرڤەری ١٢",
-          "url": "https://antenasport.link/match1.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٣",
-          "nameCkb": "سێرڤەری ١٣",
-          "url": "https://antenasport.link/kazsport.php",
-          "type": "iframe"
-        },
-        {
-          "name": "سێرڤەری ١٤",
-          "nameCkb": "سێرڤەری ١٤",
-          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-          "type": "m3u8"
-        }
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
+        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
+        { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
+        { "name": "سێرڤەری ٥", "nameCkb": "سێرڤەری ٥", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
+        { "name": "سێرڤەری ٦", "nameCkb": "سێرڤەری ٦", "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8", "type": "m3u8" },
+        { "name": "سێرڤەری ٧", "nameCkb": "سێرڤەری ٧", "url": "https://embed.cx/admin/embed1/", "type": "iframe" },
+        { "name": "سێرڤەری ٨", "nameCkb": "سێرڤەری ٨", "url": "https://embed.st/embed/admin/ppv-france-vs-england/6", "type": "iframe" },
+        { "name": "سێرڤەری ٩", "nameCkb": "سێرڤەری ٩", "url": "https://antenasport.link/megogosport.php", "type": "iframe" },
+        { "name": "سێرڤەری ١٠", "nameCkb": "سێرڤەری ١٠", "url": "https://antenasport.link/sport1pt.php", "type": "iframe" },
+        { "name": "سێرڤەری ١١", "nameCkb": "سێرڤەری ١١", "url": "https://newviva.vivatops.store/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg0NDE1NzI4LCJyYW5kIjoiMDcxZDc4OTJmMWE3MDE0MSJ9.dfab727666fb4c7b3e561f3ecc5b4ae3424501850bba35ad1ee6df4baa23a95e", "type": "m3u8" },
+        { "name": "سێرڤەری ١٢ 4K", "nameCkb": "سێرڤەری ١٢ 4K", "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8", "type": "iframe" },
+        { "name": "سێرڤەری ١٣", "nameCkb": "سێرڤەری ١٣", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ١٤", "nameCkb": "سێرڤەری ١٤", "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8", "type": "m3u8" }
       ]
     }
   ]
