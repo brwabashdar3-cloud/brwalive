@@ -1,41 +1,6 @@
 {
   "matches": [
     {
-      "id": "match-2026-07-19-france-england",
-      "team1": {
-        "name": "فرنسا",
-        "nameCkb": "فەرەنسا",
-        "logo": "https://flagpedia.net/data/flags/w580/fr.webp"
-      },
-      "team2": {
-        "name": "إنجلترا",
-        "nameCkb": "ئینگلتەرا",
-        "logo": "https://flagpedia.net/data/flags/w580/gb-eng.webp"
-      },
-      "result": "4 - 6",
-      "competition": "كأس العالم 2026 - المركز الثالث",
-      "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
-      "kickoff": "2026-07-19T00:00:00",
-      "activateMinutesBefore": 120,
-      "durationMinutes": 110,
-      "servers": [
-        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://muc002.myturn1.top:8088/live/mga4k01/playlist.m3u8?id=124089&pk=c305af00cab0afe1c1115dbef5df34f4e013c87d1a5d6ff541983259f0a0e588a132a4e388458105035d3c0e83c2ce889c1f4368fad2e13f7bf9b86894017465", "type": "iframe" },
-        { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
-        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
-        { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
-        { "name": "سێرڤەری ٥", "nameCkb": "سێرڤەری ٥", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
-        { "name": "سێرڤەری ٦", "nameCkb": "سێرڤەری ٦", "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8", "type": "m3u8" },
-        { "name": "سێرڤەری ٧", "nameCkb": "سێرڤەری ٧", "url": "https://embed.cx/admin/embed1/", "type": "iframe" },
-        { "name": "سێرڤەری ٨", "nameCkb": "سێرڤەری ٨", "url": "https://embed.st/embed/admin/ppv-france-vs-england/6", "type": "iframe" },
-        { "name": "سێرڤەری ٩", "nameCkb": "سێرڤەری ٩", "url": "https://antenasport.link/megogosport.php", "type": "iframe" },
-        { "name": "سێرڤەری ١٠", "nameCkb": "سێرڤەری ١٠", "url": "https://antenasport.link/sport1pt.php", "type": "iframe" },
-        { "name": "سێرڤەری ١١", "nameCkb": "سێرڤەری ١١", "url": "https://newviva.vivatops.store/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzg0NDE1NzI4LCJyYW5kIjoiMDcxZDc4OTJmMWE3MDE0MSJ9.dfab727666fb4c7b3e561f3ecc5b4ae3424501850bba35ad1ee6df4baa23a95e", "type": "m3u8" },
-        { "name": "سێرڤەری ١٢ 4K", "nameCkb": "سێرڤەری ١٢ 4K", "url": "https://live-aburayhan1111.telewebion.ir/ek/faratar/live/2160p/index.m3u8", "type": "iframe" },
-        { "name": "سێرڤەری ١٣", "nameCkb": "سێرڤەری ١٣", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
-        { "name": "سێرڤەری ١٤", "nameCkb": "سێرڤەری ١٤", "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8", "type": "m3u8" }
-      ]
-    },
-    {
       "id": "match-2026-07-19-argentina-spain",
       "team1": {
         "name": "الأرجنتين",
@@ -53,7 +18,7 @@
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
-        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
         { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
         { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
         { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
