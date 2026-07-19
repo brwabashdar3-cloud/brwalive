@@ -18,7 +18,7 @@
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
-        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://23.1kooralive.fun/albaplayer/live3/?serv=0", "type": "iframe" },
         { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://livestream.badinan.xyz/nexttv/FHD/playlist.m3u8", "type": "m3u8" },
         { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
         { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
