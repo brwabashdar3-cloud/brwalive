@@ -20,7 +20,7 @@
       "servers": [
         { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
         { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
-        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
+        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "iframe" },
         { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
         { "name": "سێرڤەری ٥", "nameCkb": "سێرڤەری ٥", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
         { "name": "سێرڤەری ٦", "nameCkb": "سێرڤەری ٦", "url": "https://corestream.macsitesi.help//trt1/tracks-v1a1/mono.m3u8", "type": "m3u8" },
