@@ -17,7 +17,7 @@
       "competitionCkb": "جامی جیهانی ٢٠٢٦ - دیاریکردنی پلەی سێیەم",
       "kickoff": "2026-07-19T00:00:00",
       "activateMinutesBefore": 120,
-      "durationMinutes": 200,
+      "durationMinutes": 110,
       "servers": [
         { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
         { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
