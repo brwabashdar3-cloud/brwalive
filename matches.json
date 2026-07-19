@@ -19,7 +19,7 @@
       "activateMinutesBefore": 120,
       "durationMinutes": 110,
       "servers": [
-        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://antenasport.link/beinsport1max.php", "type": "iframe" },
+        { "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://muc002.myturn1.top:8088/live/mga4k01/playlist.m3u8?id=124089&pk=c305af00cab0afe1c1115dbef5df34f4e013c87d1a5d6ff541983259f0a0e588a132a4e388458105035d3c0e83c2ce889c1f4368fad2e13f7bf9b86894017465", "type": "iframe" },
         { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://syria-live.info/albaplayer/minmx/?serv=0", "type": "iframe" },
         { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://iframe.st/rampages/france-vs-england/", "type": "iframe" },
         { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
