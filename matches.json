@@ -1,20 +1,20 @@
 {
   "matches": [
     {
-      "id": "match-2026-07-19-argentina-spain",
+      "id": "match-2026-08-1-rma-flor",
       "team1": {
-        "name": "الأرجنتين",
-        "nameCkb": "ئەرجەنتین",
-        "logo": "https://flagpedia.net/data/flags/w580/ar.webp"
+        "name": "ریال مدرید",
+        "nameCkb": "ڕیال مەدرید",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVe7erDH5PSJOqGLeEpgCnS0QbM_lb_XSwIyK2S-cTUA&s"
       },
       "team2": {
-        "name": "اسبانيا",
-        "nameCkb": "ئیسپانیا",
-        "logo": "https://flagpedia.net/data/flags/w580/es.webp"
+        "name": "فيورنتينا",
+        "nameCkb": "فیلۆرێنتینا",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1280px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png"
       },
-      "competition": "كأس العالم 2026 - النهائي",
-      "competitionCkb": "جامی جیهانی ٢٠٢٦ - کۆتایی",
-      "kickoff": "2026-07-19T22:00:00",
+      "competition": "مبارە ودیە",
+      "competitionCkb": "یاری دۆستانە",
+      "kickoff": "2026-08-01T19:00:00",
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
