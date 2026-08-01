@@ -1,27 +1,54 @@
 {
   "matches": [
     {
-      "id": "match-2026-08-1-rma-flor",
+      "id": "match-2026-08-01-rma-flor",
       "team1": {
-        "name": "ریال مدرید",
+        "name": "ريال مدريد",
         "nameCkb": "ڕیال مەدرید",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVe7erDH5PSJOqGLeEpgCnS0QbM_lb_XSwIyK2S-cTUA&s"
       },
       "team2": {
         "name": "فيورنتينا",
-        "nameCkb": "فیلۆرێنتینا",
+        "nameCkb": "فیۆرێنتینا",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1280px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png"
       },
-      "competition": "مبارە ودیە",
+      "competition": "مباراة ودية",
       "competitionCkb": "یاری دۆستانە",
       "kickoff": "2026-08-01T19:00:00",
       "activateMinutesBefore": 120,
       "durationMinutes": 200,
       "servers": [
-{ "name": "سێرڤەری ١", "nameCkb": "سێرڤەری ١", "url": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764886&key=9f39972b67d6ce22189507d008acwc26", "type": "iframe" },
-        { "name": "سێرڤەری ٢", "nameCkb": "سێرڤەری ٢", "url": "https://iframe.st/rampages/friendly--1/", "type": "iframe" },
-        { "name": "English 4K", "nameCkb": "ENGLISH 4K ", "url": "https://antenasport.link/arena2premiumserbia.php", "type": "iframe" },
-        { "name": "سێرڤەری ٤", "nameCkb": "سێرڤەری ٤", "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8", "type": "m3u8" },
-        { "name": "سێرڤەری ٥", "nameCkb": "سێرڤەری ٥", "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8", "type": "m3u8" }
+        {
+          "name": "سيرفر ١",
+          "nameCkb": "سێرڤەری ١",
+          "url": "https://912acsss8af382.fabortvcdn.com/playerv5.php?match=4764886&key=9f39972b67d6ce22189507d008acwc26",
+          "type": "iframe"
+        },
+        {
+          "name": "سيرفر ٢",
+          "nameCkb": "سێرڤەری ٢",
+          "url": "https://iframe.st/rampages/friendly--1/",
+          "type": "iframe"
+        },
+        {
+          "name": "English 4K",
+          "nameCkb": "ENGLISH 4K",
+          "url": "https://antenasport.link/arena2premiumserbia.php",
+          "type": "iframe"
+        },
+        {
+          "name": "سيرفر ٤",
+          "nameCkb": "سێرڤەری ٤",
+          "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "name": "سيرفر ٥",
+          "nameCkb": "سێرڤەری ٥",
+          "url": "https://183.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8",
+          "type": "m3u8"
+        }
       ]
-    },
+    }
+  ]
+}
